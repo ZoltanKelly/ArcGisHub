@@ -1,1 +1,7 @@
-xx
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Bliss Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bliss Bold'), url(https://raw.githubusercontent.com/ZoltanKelly/ArcGisHub/master/blsw-bd.woff2) format('woff2');
+}
